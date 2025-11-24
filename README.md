@@ -2,13 +2,16 @@
 
 A modern and responsive e-commerce web app built with React + Vite, Redux Toolkit, and React Router. Features real product data, cart management, product details, checkout, and smooth UI animations.
 
+
 🚀 Live Demo
 
 https://shoppyglobe-app.netlify.app/
 
+
 📂 GitHub Repo
 
-Add your repo link
+https://github.com/rajesh36sarkar/ShoppyGlobe-App
+
 
 ✅ Main Features
 
@@ -28,6 +31,7 @@ Fully responsive + modern UI animations
 
 Lazy loading for components & images
 
+
 🧰 Tech Used
 
 React + Vite
@@ -40,9 +44,11 @@ DummyJSON API
 
 CSS3 (custom responsive styles)
 
+
 📦 Run Locally
 npm install
 npm run dev
+
 
 📁 Project Structure
 src/
@@ -51,6 +57,7 @@ src/
  ├── redux/
  ├── hooks/
  └── styles/
+
 
 📌 Submission Checklist
 
