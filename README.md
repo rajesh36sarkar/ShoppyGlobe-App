@@ -1,71 +1,40 @@
-🛒 ShoppyGlobe
+# 🛒 ShoppyGlobe – Modern E-Commerce Web App
 
-A modern and responsive e-commerce web app built with React + Vite, Redux Toolkit, and React Router. Features real product data, cart management, product details, checkout, and smooth UI animations.
+ShoppyGlobe is a clean, fast, and fully responsive e-commerce application built with **React + Vite**, **Redux Toolkit**, and **React Router**.  
+Users can browse products, view details, manage their cart, and place orders through a smooth and modern UI.
 
+---
 
-🚀 Live Demo
+## 🚀 Live Demo  
+🔗 https://shoppyglobe-app.netlify.app/
 
-https://shoppyglobe-app.netlify.app/
+## 📂 GitHub Repository  
+🔗 https://github.com/rajesh36sarkar/ShoppyGlobe-App
 
+---
 
-📂 GitHub Repo
+## ⭐ Features
+- Fetches real product data from **DummyJSON API**
+- Product listing with search filter  
+- Dynamic product detail page  
+- Add to cart, remove items, and quantity update (Redux)  
+- Checkout form + order confirmation  
+- 404 Not Found page  
+- Fully responsive UI with modern animations  
+- Lazy-loaded components & images for performance
 
-https://github.com/rajesh36sarkar/ShoppyGlobe-App
+---
 
+## 🧰 Tech Stack
+- **React + Vite**
+- **Redux Toolkit**
+- **React Router v6**
+- **DummyJSON API**
+- **CSS3 (custom responsive styling)**
 
-✅ Main Features
+---
 
-Fetch products from DummyJSON API
-
-Product list + search filter
-
-Product detail page (dynamic routing)
-
-Add to cart, remove, update quantity (Redux)
-
-Checkout form + “Order Placed” message
-
-404 Not Found page
-
-Fully responsive + modern UI animations
-
-Lazy loading for components & images
-
-
-🧰 Tech Used
-
-React + Vite
-
-Redux Toolkit
-
-React Router v6 (createBrowserRouter)
-
-DummyJSON API
-
-CSS3 (custom responsive styles)
-
-
-📦 Run Locally
+## 📦 How to Run Locally
+```bash
 npm install
 npm run dev
-
-
-📁 Project Structure
-src/
- ├── components/
- ├── pages/
- ├── redux/
- ├── hooks/
- └── styles/
-
-
-📌 Submission Checklist
-
-✔ Vite project
-✔ Redux for cart + search
-✔ useEffect data fetching
-✔ Error handling
-✔ Dynamic routing
-✔ Responsive design
-✔ 25+ commits
-✔ Node modules removed
